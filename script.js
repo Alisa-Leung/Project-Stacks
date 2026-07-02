@@ -1,5 +1,4 @@
-// 3 new function ideas
-// change the color of something
+//deployment failed adding comment to push and deploy again
 document.addEventListener("DOMContentLoaded", (event) => {
     const triggers = document.querySelectorAll(".modalTrigger");
     const modal = document.getElementById("imageModal");
